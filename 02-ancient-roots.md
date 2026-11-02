@@ -4,15 +4,15 @@ The word "nihilism" is barely two hundred years old, but the thoughts it names a
 
 ## Required reading
 
-- *Ecclesiastes*, all twelve chapters (King James Version); it takes about forty minutes. [readings/bible-ecclesiastes-kjv-pg8021.epub](readings/bible-ecclesiastes-kjv-pg8021.epub)
-- Sextus Empiricus, *Outlines of Pyrrhonism* Book I, chapters 1–13 and 25–33 (sections 1–35, 200–235), in Mary Mills Patrick's translation, printed as *Pyrrhonic Sketches* in her *Sextus Empiricus and Greek Scepticism* (1899). [readings/patrick-sextus-empiricus-and-greek-scepticism-pg17556.epub](readings/patrick-sextus-empiricus-and-greek-scepticism-pg17556.epub)
-- Lucretius, *On the Nature of Things* Book III, from "Folly of the Fear of Death" to the end (tr. William Ellery Leonard). [readings/lucretius-on-the-nature-of-things-pg785.epub](readings/lucretius-on-the-nature-of-things-pg785.epub)
-- Diogenes Laertius, *Lives of Eminent Philosophers* II.86–97 (the Cyrenaics) and IX.61–108 (Pyrrho and Timon) (tr. C. D. Yonge). [readings/diogenes-laertius-lives-of-eminent-philosophers-pg57342.epub](readings/diogenes-laertius-lives-of-eminent-philosophers-pg57342.epub)
+- *Ecclesiastes*, all twelve chapters (King James Version); it takes about forty minutes. [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fbible-ecclesiastes-kjv-pg8021.epub) [File](readings/bible-ecclesiastes-kjv-pg8021.epub)
+- Sextus Empiricus, *Outlines of Pyrrhonism* Book I, chapters 1–13 and 25–33 (sections 1–35, 200–235), in Mary Mills Patrick's translation, printed as *Pyrrhonic Sketches* in her *Sextus Empiricus and Greek Scepticism* (1899). [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fpatrick-sextus-empiricus-and-greek-scepticism-pg17556.epub) [File](readings/patrick-sextus-empiricus-and-greek-scepticism-pg17556.epub)
+- Lucretius, *On the Nature of Things* Book III, from "Folly of the Fear of Death" to the end (tr. William Ellery Leonard). [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Flucretius-on-the-nature-of-things-pg785.epub) [File](readings/lucretius-on-the-nature-of-things-pg785.epub)
+- Diogenes Laertius, *Lives of Eminent Philosophers* II.86–97 (the Cyrenaics) and IX.61–108 (Pyrrho and Timon) (tr. C. D. Yonge). [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fdiogenes-laertius-lives-of-eminent-philosophers-pg57342.epub) [File](readings/diogenes-laertius-lives-of-eminent-philosophers-pg57342.epub)
 - Nāgārjuna, *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*, translated with commentary by Jay L. Garfield (Oxford University Press, 1995), chapters 1, 15, 24 and 25 with Garfield's commentary **(procure yourself)**.
 
 Further reading:
 
-- Friedrich Nietzsche, *The Birth of Tragedy* §3, on the "wisdom of Silenus" (tr. William A. Haussmann). [readings/nietzsche-birth-of-tragedy-pg51356.epub](readings/nietzsche-birth-of-tragedy-pg51356.epub)
+- Friedrich Nietzsche, *The Birth of Tragedy* §3, on the "wisdom of Silenus" (tr. William A. Haussmann). [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fnietzsche-birth-of-tragedy-pg51356.epub) [File](readings/nietzsche-birth-of-tragedy-pg51356.epub)
 - Julia Annas and Jonathan Barnes, trans., Sextus Empiricus, *Outlines of Scepticism* (Cambridge University Press, 2nd ed. 2000) **(procure yourself)**: the standard modern translation.
 - Michael V. Fox, *A Time to Tear Down and a Time to Build Up: A Rereading of Ecclesiastes* (Eerdmans, 1999) **(procure yourself)**.
 - Jan Westerhoff, *Nāgārjuna's Madhyamaka: A Philosophical Introduction* (Oxford University Press, 2009) **(procure yourself)**.

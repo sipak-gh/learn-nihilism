@@ -4,12 +4,12 @@
 
 ## Required reading
 
-- Friedrich Nietzsche, *The Genealogy of Morals*, tr. Horace B. Samuel: Preface §6; First Essay §§10–13; Second Essay §§1–3, 16; Third Essay §§1, 28. [readings/nietzsche-genealogy-of-morals-pg52319.epub](readings/nietzsche-genealogy-of-morals-pg52319.epub)
-- Friedrich Nietzsche, *The Joyful Wisdom*, tr. Thomas Common: §§276, 290, 341. [readings/nietzsche-joyful-wisdom-pg52881.epub](readings/nietzsche-joyful-wisdom-pg52881.epub)
-- Friedrich Nietzsche, *Thus Spake Zarathustra*, tr. Thomas Common: Prologue §§3–4; "The Three Metamorphoses"; "The Thousand and One Goals"; "Redemption"; "The Vision and the Enigma"; "The Drunken Song." [readings/nietzsche-thus-spake-zarathustra-pg1998.epub](readings/nietzsche-thus-spake-zarathustra-pg1998.epub)
-- Friedrich Nietzsche, *Beyond Good and Evil*, tr. Helen Zimmern: §§56, 260. [readings/nietzsche-beyond-good-and-evil-pg4363.epub](readings/nietzsche-beyond-good-and-evil-pg4363.epub)
-- Friedrich Nietzsche, *Ecce Homo*, tr. Anthony M. Ludovici: "Why I Am So Clever" §10; "Thus Spake Zarathustra" §1; "Why I Am a Fatality" §1. [readings/nietzsche-ecce-homo-pg52190.epub](readings/nietzsche-ecce-homo-pg52190.epub)
-- Friedrich Nietzsche, *The Twilight of the Idols*, tr. Anthony M. Ludovici: "Skirmishes in a War with the Age" §49; "Things I Owe to the Ancients" §5. [readings/nietzsche-twilight-of-the-idols-pg52263.epub](readings/nietzsche-twilight-of-the-idols-pg52263.epub)
+- Friedrich Nietzsche, *The Genealogy of Morals*, tr. Horace B. Samuel: Preface §6; First Essay §§10–13; Second Essay §§1–3, 16; Third Essay §§1, 28. [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fnietzsche-genealogy-of-morals-pg52319.epub) [File](readings/nietzsche-genealogy-of-morals-pg52319.epub)
+- Friedrich Nietzsche, *The Joyful Wisdom*, tr. Thomas Common: §§276, 290, 341. [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fnietzsche-joyful-wisdom-pg52881.epub) [File](readings/nietzsche-joyful-wisdom-pg52881.epub)
+- Friedrich Nietzsche, *Thus Spake Zarathustra*, tr. Thomas Common: Prologue §§3–4; "The Three Metamorphoses"; "The Thousand and One Goals"; "Redemption"; "The Vision and the Enigma"; "The Drunken Song." [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fnietzsche-thus-spake-zarathustra-pg1998.epub) [File](readings/nietzsche-thus-spake-zarathustra-pg1998.epub)
+- Friedrich Nietzsche, *Beyond Good and Evil*, tr. Helen Zimmern: §§56, 260. [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fnietzsche-beyond-good-and-evil-pg4363.epub) [File](readings/nietzsche-beyond-good-and-evil-pg4363.epub)
+- Friedrich Nietzsche, *Ecce Homo*, tr. Anthony M. Ludovici: "Why I Am So Clever" §10; "Thus Spake Zarathustra" §1; "Why I Am a Fatality" §1. [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fnietzsche-ecce-homo-pg52190.epub) [File](readings/nietzsche-ecce-homo-pg52190.epub)
+- Friedrich Nietzsche, *The Twilight of the Idols*, tr. Anthony M. Ludovici: "Skirmishes in a War with the Age" §49; "Things I Owe to the Ancients" §5. [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fnietzsche-twilight-of-the-idols-pg52263.epub) [File](readings/nietzsche-twilight-of-the-idols-pg52263.epub)
 
 Further reading:
 

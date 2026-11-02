@@ -11,10 +11,10 @@ This chapter is also a bridge to the other three courses. It links to [learn-sto
 - **(procure yourself)** Thomas Nagel, *The View from Nowhere* (Oxford University Press, 1986), ch. XI, "Birth, Death, and the Meaning of Life." (Nagel's earlier essay "The Absurd" was discussed in [Chapter 10](10-camus-and-the-absurd.md).)
 - **(procure yourself)** Leo Tolstoy, *A Confession* (1882), tr. Aylmer Maude (Oxford World's Classics; also Dover Thrift Editions). About fifty pages; read all of it.
 - **(procure yourself)** Samuel Scheffler, *Death and the Afterlife*, ed. Niko Kolodny (Oxford University Press, 2013), Lecture 1, "The Afterlife (Part I)."
-- [readings/mill-autobiography-pg10378.epub](readings/mill-autobiography-pg10378.epub): John Stuart Mill, *Autobiography* (1873), ch. V, "A Crisis in My Mental History."
-- [readings/james-will-to-believe-pg26659.epub](readings/james-will-to-believe-pg26659.epub): William James, "Is Life Worth Living?" (1895), in *The Will to Believe and Other Essays in Popular Philosophy* (1897).
-- [readings/marcus-aurelius-meditations-pg2680.epub](readings/marcus-aurelius-meditations-pg2680.epub): Marcus Aurelius, *Meditations*, tr. Meric Casaubon. Book II.
-- [readings/dhammapada-pg2017.epub](readings/dhammapada-pg2017.epub): *The Dhammapada*, tr. F. Max Müller. Chapters XIII ("The World") and XX ("The Way").
+- [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fmill-autobiography-pg10378.epub) [File](readings/mill-autobiography-pg10378.epub): John Stuart Mill, *Autobiography* (1873), ch. V, "A Crisis in My Mental History."
+- [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fjames-will-to-believe-pg26659.epub) [File](readings/james-will-to-believe-pg26659.epub): William James, "Is Life Worth Living?" (1895), in *The Will to Believe and Other Essays in Popular Philosophy* (1897).
+- [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fmarcus-aurelius-meditations-pg2680.epub) [File](readings/marcus-aurelius-meditations-pg2680.epub): Marcus Aurelius, *Meditations*, tr. Meric Casaubon. Book II.
+- [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fdhammapada-pg2017.epub) [File](readings/dhammapada-pg2017.epub): *The Dhammapada*, tr. F. Max Müller. Chapters XIII ("The World") and XX ("The Way").
 
 Further reading: Keiji Nishitani, *The Self-Overcoming of Nihilism*, tr. Graham Parkes with Setsuko Aihara (SUNY Press, 1990); Harry Frankfurt, *The Reasons of Love* (Princeton, 2004); Martin Hägglund, *This Life: Secular Faith and Spiritual Freedom* (Pantheon, 2019); Lawrence C. Becker, *A New Stoicism* (Princeton, 1998; rev. ed. 2017).
 

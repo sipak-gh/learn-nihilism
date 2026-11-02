@@ -4,11 +4,11 @@ The Russian nihilists of [Chapter 4](04-russian-nihilism.md) denied authority in
 
 ## Required reading
 
-- Arthur Schopenhauer, *The World as Will and Idea*, vol. I, tr. R. B. Haldane and J. Kemp: §§1–2, 18, 38, 52, 54, 56–59, 66, 68–71. [readings/schopenhauer-world-as-will-and-idea-vol1-pg38427.epub](readings/schopenhauer-world-as-will-and-idea-vol1-pg38427.epub)
-- Arthur Schopenhauer, *The World as Will and Idea*, vol. III, ch. XLVI, "On the Vanity and Suffering of Life." [readings/schopenhauer-world-as-will-and-idea-vol3-pg40868.epub](readings/schopenhauer-world-as-will-and-idea-vol3-pg40868.epub)
-- Arthur Schopenhauer, *Studies in Pessimism*, tr. T. Bailey Saunders: "On the Sufferings of the World," "On the Vanity of Existence," "On Suicide." [readings/schopenhauer-studies-in-pessimism-pg10732.epub](readings/schopenhauer-studies-in-pessimism-pg10732.epub)
-- Giacomo Leopardi, *Essays and Dialogues*, tr. Charles Edwardes: "Dialogue between Nature and an Icelander" and "Dialogue between an Almanac Seller and a Passer-by." [readings/leopardi-essays-and-dialogues-pg52356.epub](readings/leopardi-essays-and-dialogues-pg52356.epub)
-- Giacomo Leopardi, *Poems*, tr. Frederick Townsend: "The Infinite," "Night Song of a Wandering Shepherd in Asia," "To Himself," "The Ginestra." [readings/leopardi-poems-pg19315.epub](readings/leopardi-poems-pg19315.epub)
+- Arthur Schopenhauer, *The World as Will and Idea*, vol. I, tr. R. B. Haldane and J. Kemp: §§1–2, 18, 38, 52, 54, 56–59, 66, 68–71. [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fschopenhauer-world-as-will-and-idea-vol1-pg38427.epub) [File](readings/schopenhauer-world-as-will-and-idea-vol1-pg38427.epub)
+- Arthur Schopenhauer, *The World as Will and Idea*, vol. III, ch. XLVI, "On the Vanity and Suffering of Life." [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fschopenhauer-world-as-will-and-idea-vol3-pg40868.epub) [File](readings/schopenhauer-world-as-will-and-idea-vol3-pg40868.epub)
+- Arthur Schopenhauer, *Studies in Pessimism*, tr. T. Bailey Saunders: "On the Sufferings of the World," "On the Vanity of Existence," "On Suicide." [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fschopenhauer-studies-in-pessimism-pg10732.epub) [File](readings/schopenhauer-studies-in-pessimism-pg10732.epub)
+- Giacomo Leopardi, *Essays and Dialogues*, tr. Charles Edwardes: "Dialogue between Nature and an Icelander" and "Dialogue between an Almanac Seller and a Passer-by." [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fleopardi-essays-and-dialogues-pg52356.epub) [File](readings/leopardi-essays-and-dialogues-pg52356.epub)
+- Giacomo Leopardi, *Poems*, tr. Frederick Townsend: "The Infinite," "Night Song of a Wandering Shepherd in Asia," "To Himself," "The Ginestra." [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fleopardi-poems-pg19315.epub) [File](readings/leopardi-poems-pg19315.epub)
 
 Further reading:
 

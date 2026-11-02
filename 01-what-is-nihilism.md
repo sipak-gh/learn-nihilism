@@ -4,14 +4,14 @@
 
 ## Required reading
 
-- Ivan Turgenev, *Fathers and Children* (tr. Constance Garnett), chapters 5 and 10: the scene that made "nihilist" a household word. [readings/turgenev-fathers-and-children-pg30723.epub](readings/turgenev-fathers-and-children-pg30723.epub)
-- Friedrich Nietzsche, *The Will to Power*, vol. 1 (tr. Anthony M. Ludovici), "A Plan" and §§1–25. [readings/nietzsche-will-to-power-vol1-pg52914.epub](readings/nietzsche-will-to-power-vol1-pg52914.epub)
-- *Ecclesiastes*, chapter 1 (King James Version). [readings/bible-ecclesiastes-kjv-pg8021.epub](readings/bible-ecclesiastes-kjv-pg8021.epub)
+- Ivan Turgenev, *Fathers and Children* (tr. Constance Garnett), chapters 5 and 10: the scene that made "nihilist" a household word. [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fturgenev-fathers-and-children-pg30723.epub) [File](readings/turgenev-fathers-and-children-pg30723.epub)
+- Friedrich Nietzsche, *The Will to Power*, vol. 1 (tr. Anthony M. Ludovici), "A Plan" and §§1–25. [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fnietzsche-will-to-power-vol1-pg52914.epub) [File](readings/nietzsche-will-to-power-vol1-pg52914.epub)
+- *Ecclesiastes*, chapter 1 (King James Version). [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fbible-ecclesiastes-kjv-pg8021.epub) [File](readings/bible-ecclesiastes-kjv-pg8021.epub)
 - Nolen Gertz, *Nihilism* (MIT Press Essential Knowledge series, 2019), chapters 1–2 **(procure yourself)**: a short, lively map of the term's uses.
 
 Further reading:
 
-- Peter Kropotkin, *Memoirs of a Revolutionist*, Part Fourth, chapter XII: an insider's account of what the Russian "nihilists" actually believed. [readings/kropotkin-memoirs-of-a-revolutionist-pg73882.epub](readings/kropotkin-memoirs-of-a-revolutionist-pg73882.epub)
+- Peter Kropotkin, *Memoirs of a Revolutionist*, Part Fourth, chapter XII: an insider's account of what the Russian "nihilists" actually believed. [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fkropotkin-memoirs-of-a-revolutionist-pg73882.epub) [File](readings/kropotkin-memoirs-of-a-revolutionist-pg73882.epub)
 - Donald A. Crosby, *The Specter of the Absurd: Sources and Criticisms of Modern Nihilism* (SUNY Press, 1988), chapter 1 **(procure yourself)**: the standard five-fold typology.
 - Karen L. Carr, *The Banalization of Nihilism: Twentieth-Century Responses to Meaninglessness* (SUNY Press, 1992), introduction **(procure yourself)**.
 

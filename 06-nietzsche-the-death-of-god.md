@@ -4,11 +4,11 @@ Friedrich Nietzsche did not invent the word "nihilism" ([Chapter 3](03-the-word-
 
 ## Required reading
 
-- Friedrich Nietzsche, *The Joyful Wisdom* (*The Gay Science*), tr. Thomas Common: §§108, 109, 125, 343, 344, 357. [readings/nietzsche-joyful-wisdom-pg52881.epub](readings/nietzsche-joyful-wisdom-pg52881.epub)
-- Friedrich Nietzsche, *Thus Spake Zarathustra*, tr. Thomas Common: "Zarathustra's Prologue," §§1–5. [readings/nietzsche-thus-spake-zarathustra-pg1998.epub](readings/nietzsche-thus-spake-zarathustra-pg1998.epub)
-- Friedrich Nietzsche, *The Will to Power*, vol. I, tr. Anthony M. Ludovici: Preface; Book I, §§1–23 and §55. [readings/nietzsche-will-to-power-vol1-pg52914.epub](readings/nietzsche-will-to-power-vol1-pg52914.epub)
-- Friedrich Nietzsche, *The Twilight of the Idols* and *The Antichrist*, tr. Anthony M. Ludovici: "'Reason' in Philosophy," "How the 'True World' Ultimately Became a Fable," "Skirmishes in a War with the Age" §5; *Antichrist* §§7, 20. [readings/nietzsche-twilight-of-the-idols-pg52263.epub](readings/nietzsche-twilight-of-the-idols-pg52263.epub)
-- Friedrich Nietzsche, *The Genealogy of Morals*, tr. Horace B. Samuel: Third Essay, §§27–28. [readings/nietzsche-genealogy-of-morals-pg52319.epub](readings/nietzsche-genealogy-of-morals-pg52319.epub)
+- Friedrich Nietzsche, *The Joyful Wisdom* (*The Gay Science*), tr. Thomas Common: §§108, 109, 125, 343, 344, 357. [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fnietzsche-joyful-wisdom-pg52881.epub) [File](readings/nietzsche-joyful-wisdom-pg52881.epub)
+- Friedrich Nietzsche, *Thus Spake Zarathustra*, tr. Thomas Common: "Zarathustra's Prologue," §§1–5. [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fnietzsche-thus-spake-zarathustra-pg1998.epub) [File](readings/nietzsche-thus-spake-zarathustra-pg1998.epub)
+- Friedrich Nietzsche, *The Will to Power*, vol. I, tr. Anthony M. Ludovici: Preface; Book I, §§1–23 and §55. [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fnietzsche-will-to-power-vol1-pg52914.epub) [File](readings/nietzsche-will-to-power-vol1-pg52914.epub)
+- Friedrich Nietzsche, *The Twilight of the Idols* and *The Antichrist*, tr. Anthony M. Ludovici: "'Reason' in Philosophy," "How the 'True World' Ultimately Became a Fable," "Skirmishes in a War with the Age" §5; *Antichrist* §§7, 20. [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fnietzsche-twilight-of-the-idols-pg52263.epub) [File](readings/nietzsche-twilight-of-the-idols-pg52263.epub)
+- Friedrich Nietzsche, *The Genealogy of Morals*, tr. Horace B. Samuel: Third Essay, §§27–28. [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-nihilism%2Fmaster%2Freadings%2Fnietzsche-genealogy-of-morals-pg52319.epub) [File](readings/nietzsche-genealogy-of-morals-pg52319.epub)
 
 Further reading:
 
